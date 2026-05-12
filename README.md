@@ -72,9 +72,16 @@ npx expo start
 
 Create a `.env` file in the root directory:
 
-```
-EXPO_PUBLIC_API_KEY=your_api_key
-EXPO_PUBLIC_API_URL=your_api_url
+```env
+EXPO_PUBLIC_MOVIE_API_KEY=your_tmdb_api_key
+
+EXPO_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
+EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+EXPO_PUBLIC_FIREBASE_DATABASE_URL=your_database_url
+EXPO_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
+EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+EXPO_PUBLIC_FIREBASE_APP_ID=your_app_id
 ```
 
 ⚠️ Do NOT commit `.env` to GitHub.
@@ -92,39 +99,32 @@ You can download and install the latest Android APK of Watchify here:
 
 ---
 
-bash
-npx expo build:android
+## 🔨 Build APK
 
-````
+Using EAS:
 
-or using EAS:
 ```bash
 eas build -p android
-````
+```
 
+For clean build:
+
+```bash
+eas build -p android --clear-cache
+```
 ---
 
 ## 🧠 Future Improvements
 
-* Firebase Authentication (login/signup)
-
-* Cloud sync for favorites using Firebase
-
-* Offline mode support
-
-* User authentication (login/signup)
-
-* Cloud sync for favorites
-
-* Offline mode support
-
-* Video streaming integration
-
-* Dark/light theme toggle
-
+- Firebase Authentication
+- Cloud sync for favorites
+- Offline mode support
+- Video streaming integration
+- Dark/light theme toggle
+- Push notifications
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
 **Muhammad Waseem**
 
@@ -132,14 +132,57 @@ eas build -p android
 
 **Isha Shabab**
 
-GitHub: [https://github.com/Waseem-Muhammad](https://github.com/Waseem-Muhammad)
+GitHub: [Muhammad Waseem](https://github.com/Waseem-Muhammad)
 
-GitHub: [https://github.com/Yumna-Arif](https://github.com/Yumna-Arif)
+GitHub: [Yumna Arif](https://github.com/Yumna-Arif)
 
-GitHub: [https://github.com/Isha-Shabab](https://github.com/Isha-Shabab)
+GitHub: [Isha Shabab](https://github.com/Isha-Shabab)
 
 ---
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+## 🔒 Security Notice
+
+This project uses environment variables for API keys and Firebase configuration.
+
+Make sure to create your own `.env` file and never expose secret keys publicly.
+
+---
+
+## 📱 Platform Support
+
+- Android ✅
+- Web ✅
+
+---
+
+## ⚠️ Disclaimer
+
+This project is developed for educational and portfolio purposes only.
+
+Movie data is provided by TMDB API. All movie posters, titles, and related content belong to their respective owners.
+
+---
+
+## 🙌 Acknowledgements
+
+- TMDB API
+- Expo
+- React Native
+- Firebase
+
+---
 ## ⭐ Show Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
@@ -148,4 +191,4 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 ## 📄 License
 
-This project is for educational purposes.
+This project is developed for educational and portfolio purposes.
