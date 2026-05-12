@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/images/banner.png" alt="Watchify Banner" width="900"/>
+  <img src="./assets/images/banner.png" alt="Watchify Banner" width="100%"/>
 </p>
+
 
 <p align="center">
 
