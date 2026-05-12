@@ -243,3 +243,17 @@ Movie data is provided by TMDB API. All movie posters, titles, and related conte
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
+
+## ❓ FAQ
+
+### Is the APK safe?
+Yes, the APK is generated using Expo EAS Build.
+
+### Which API is used?
+TMDB API.
+
+---
+
+<p align="center">
+  Made with ❤️ by IWY Explorers
+</p>
