@@ -85,7 +85,8 @@ EXPO_PUBLIC_API_URL=your_api_url
 
 You can download and install the latest Android APK of Watchify here:
 
-👉 **Download APK:** (APK file is already available with the project / add your Google Drive or release link here)
+👉 **Download APK:** ([Click here to download APK File](https://expo.dev/accounts/mwaseemgc/projects/react-native-movie-app/builds/7a26d020-f1a7-4225-a371-d077d0b60546))
+
 
 > After downloading, enable "Install from unknown sources" on your Android device.
 
