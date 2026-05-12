@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="./assets/images/banner.png" alt="Watchify Banner" width="900"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TMDB-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EAS%20Build-000000?style=for-the-badge&logo=expo&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
 # 🎬 Watchify – React Native Movie App
 
 Watchify is a modern **React Native + Expo** movie browsing application that allows users to explore trending movies, search films, and manage favorites in a clean and responsive UI.
@@ -124,13 +150,13 @@ eas build -p android --clear-cache
 - Push notifications
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Developed By
 
-**Muhammad Waseem**
+### IWY Explorers
 
-**Yumna Arif**
-
-**Isha Shabab**
+- Muhammad Waseem
+- Yumna Arif
+- Isha Shabab
 
 GitHub: [Muhammad Waseem](https://github.com/Waseem-Muhammad)
 
@@ -179,7 +205,7 @@ Make sure to create your own `.env` file and never expose secret keys publicly.
 
 ## ⚠️ Disclaimer
 
-This project is developed for educational and portfolio purposes only.
+This project is developed by IWY Explorers for educational and portfolio purposes only.
 
 Movie data is provided by TMDB API. All movie posters, titles, and related content belong to their respective owners.
 
@@ -198,7 +224,3 @@ Movie data is provided by TMDB API. All movie posters, titles, and related conte
 If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
-
-## 📄 License
-
-This project is developed for educational and portfolio purposes.
