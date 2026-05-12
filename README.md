@@ -2,7 +2,6 @@
   <img src="./assets/images/banner.png" alt="Watchify Banner" width="100%"/>
 </p>
 
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,6 +22,14 @@
 
 <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Waseem-Muhammad/Watchify?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Waseem-Muhammad/Watchify?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Waseem-Muhammad/Watchify?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/version-1.0.0-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 </p>
 
 # 🎬 Watchify – React Native Movie App
