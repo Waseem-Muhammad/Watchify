@@ -136,7 +136,7 @@ GitHub: [Muhammad Waseem](https://github.com/Waseem-Muhammad)
 
 GitHub: [Yumna Arif](https://github.com/Yumna-Arif)
 
-GitHub: [Isha Shabab](https://github.com/Isha-Shabab)
+GitHub: [Isha Shabab](https://github.com/Ishashabab)
 
 ---
 
