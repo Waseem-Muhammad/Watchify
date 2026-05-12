@@ -172,7 +172,7 @@ GitHub: [Isha Shabab](https://github.com/Ishashabab)
 - [🚀 Opening Screen](./assets/images/opening%20screen.jpeg)
 - [🏠 Home Screen](./assets/images/home%20screen.jpeg)
 - [🔍 Search Screen](./assets/images/search%20screen.jpeg)
-- [🎬 Movie Details](./assets/images/movie_details.jpeg)
+- [🎬 Movie Details](./assets/images/movie%20details.jpeg)
 - [❤️ Saved Movies](./assets/images/saved%20screen.jpeg)
 - [📱 App Icon](./assets/images/app.jpeg)
 ---
