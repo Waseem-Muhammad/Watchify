@@ -50,7 +50,7 @@ Watchify-react-native-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Yumna-Arif/Watchify-react-native-app.git
+git clone https://github.com/Waseem-Muhammad/Watchify.git
 cd Watchify-react-native-app
 ```
 
@@ -125,9 +125,17 @@ eas build -p android
 
 ## 👩‍💻 Author
 
+**Muhammad Waseem**
+
 **Yumna Arif**
 
+**Isha Shabab**
+
+GitHub: [https://github.com/Waseem-Muhammad](https://github.com/Waseem-Muhammad)
+
 GitHub: [https://github.com/Yumna-Arif](https://github.com/Yumna-Arif)
+
+GitHub: [https://github.com/Isha-Shabab](https://github.com/Isha-Shabab)
 
 ---
 
