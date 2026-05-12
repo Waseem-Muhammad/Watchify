@@ -140,6 +140,28 @@ GitHub: [Isha Shabab](https://github.com/Isha-Shabab)
 
 ---
 
+## 📸 Screenshots
+
+### 🚀 Opening Screen
+![Opening Screen](./assets/images/opening%20screen.jpeg)
+
+### 🏠 Home Screen
+![Home Screen](./assets/images/home%20screen.jpeg)
+
+### 🔍 Search Screen
+![Search Screen](./assets/images/search%20screen.jpeg)
+
+### 🎬 Movie Details
+![Movie Details](./assets/images/movie_details.jpeg)
+
+### ❤️ Saved Movies
+![Saved Movies](./assets/images/saved%20screen.jpeg)
+
+### 📱 App Icon
+![App Icon](./assets/images/app.jpeg)
+
+---
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
