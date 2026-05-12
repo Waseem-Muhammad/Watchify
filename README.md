@@ -58,6 +58,10 @@ Watchify is a modern **React Native + Expo** movie browsing application that all
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,firebase,ts,nodejs,git,github" />
+</p>
+
 * React Native
 * Expo
 * TypeScript
